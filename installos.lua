@@ -1,4 +1,3 @@
-local base = "https://raw.githubusercontent.com///main"
 local base = "https://raw.githubusercontent.com/Rafe223/CC-Tweak1/main"
 
 local files = {
